@@ -32,7 +32,7 @@ Flipside Audio Converter is a simple GUI application built with Tkinter and FFmp
 ### GNU/Linux Debian-based distributions
 
 1. Download the repository via ZIP file or run `git clone https://github.com/edgarronceroblanco/flipside-audio-converter.git`.
-2. Install Python 3 and Tkinter with `sudo apt update; sudo apt install python3 python3-tkinter`.
+2. Install Python 3 and Tkinter with `sudo apt update; sudo apt install python3 python3-tk`.
 3. Install FFmpeg with `sudo apt update; sudo apt install ffmpeg`.
 4. Run the application from the terminal: `python3 FlipsideAudioConverter.py`.
 
@@ -41,5 +41,5 @@ Flipside Audio Converter is a simple GUI application built with Tkinter and FFmp
 1. Download the repository via ZIP file or run `git clone https://github.com/edgarronceroblanco/flipside-audio-converter.git`.
 2. Install the latest Python 3.x from [its official webpage](https://www.python.org/downloads/).
 3. Download the latest stable FFmpeg build from [evermeet.cx](https://evermeet.cx/ffmpeg/ffmpeg-6.1.1.7z).
-4. Extract FFmpeg into `/usr/local/bin`.
+4. Extract FFmpeg into `/usr/local/bin` directory.
 5. Run the application from the terminal: `python3 FlipsideAudioConverter.py`.
